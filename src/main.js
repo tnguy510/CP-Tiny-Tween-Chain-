@@ -1,6 +1,6 @@
-// Exercise 05: Tiny Tween Chain
-// Name:
-// Date:
+// Code Practice: Tiny Tween Chain
+// Name: Trish Nguyen
+// Date: 3/6/2024
 
 // CODE ARMOR
 'use strict'
